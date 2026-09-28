@@ -1,3 +1,5 @@
+
+<img width="1919" height="912" alt="exczxz" src="https://github.com/user-attachments/assets/925b6c5d-9fc7-4b6e-9bfc-b151487f3ba8" />
 ### `npm install`
 this will install dependencies.
 
